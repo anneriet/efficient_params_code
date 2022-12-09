@@ -1,5 +1,5 @@
 # Efficient parameterised compilation for hybrid quantum programming
-This repository contains the code that was used to generate the results for the paper https://arxiv.org/abs/2208.07683. In order to run the experiments, please first install the application discussed in the Setup section below.
+This repository contains the code that was used to generate the results for the paper https://arxiv.org/abs/2208.07683. In order to run the experiments, please first install the applications discussed in the Setup section below.
 
 ### Setup
 [OpenQL_PC and OpenQL](https://github.com/anneriet/OpenQL/tree/parameters_for_hybrid_comp), follow the instructions for installing from source in the [OpenQL documentation](https://openql.readthedocs.io/).    
